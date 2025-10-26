@@ -1,2 +1,2 @@
 print("hello!")
-print("from Tanmay Kamble from FAMT")
+print("from Tanmay Kamble studying in FAMT")
